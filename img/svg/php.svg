@@ -1,0 +1,6 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" rx="40" fill="#777BB4"/>
+  <path d="M62,85 c0-15,10-25,25-25h10c15,0,25,10,25,25s-10,25-25,25h-5v15h-5v-40h10c12,0,20,8,20,20s-8,20-20,20h-5v-15h-5z M115,60h5v25h20v-25h5v40h-5v-15h-20v15h-5z M165,85 c0-15,10-25,25-25h10c15,0,25,10,25,25s-10,25-25,25h-5v15h-5v-40h10c12,0,20,8,20,20s-8,20-20,20h-5v-15h-5z" 
+        fill="white" transform="translate(-45, 15) scale(1.1)"/>
+  <ellipse cx="100" cy="100" rx="70" ry="40" stroke="white" stroke-width="8" fill="none"/>
+</svg>
